@@ -1,0 +1,1 @@
+# Optimizaci-n-de-la-Gesti-n-de-Datos-M-dicos-con-Estructuras-de-Datos-en-Python
