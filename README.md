@@ -18,7 +18,7 @@ El objetivo principal es optimizar la organización y procesamiento de informaci
 3. **Optimización de Rutas:** Modelado de redes mediante grafos para calcular rutas más cortas para servicios de emergencia.
 
 ## Cómo Navegar por el Proyecto
-Este proyecto incluye un portafolio en formato web (`index.html`) que describe los componentes mencionados y presenta ejemplos prácticos. Puedes acceder al archivo para visualizarlo en tu navegador con el siguiente link: https://prgonza.github.io/index.html/ .
+Este proyecto incluye un portafolio en formato web (`index.html`) que describe los componentes mencionados y presenta ejemplos prácticos.
 
 ## Contacto
 Si tienes preguntas o deseas colaborar en este proyecto, puedes completar el formulario de contacto en el portafolio o enviarme un mensaje directamente.
